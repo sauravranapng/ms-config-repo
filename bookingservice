@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/bookingService
+spring.datasource.username=postgres
+spring.datasource.password=postgres
